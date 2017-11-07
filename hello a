@@ -3,3 +3,5 @@ void main()
 {
 print("hello great")
 }
+print("this is a basic program")
+}
